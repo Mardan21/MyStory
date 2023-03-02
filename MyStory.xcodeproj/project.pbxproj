@@ -9,21 +9,25 @@
 /* Begin PBXBuildFile section */
 		D39BD89929AF4723008FD1C3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39BD89829AF4723008FD1C3 /* AppDelegate.swift */; };
 		D39BD89B29AF4723008FD1C3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39BD89A29AF4723008FD1C3 /* SceneDelegate.swift */; };
-		D39BD89D29AF4723008FD1C3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39BD89C29AF4723008FD1C3 /* ViewController.swift */; };
+		D39BD89D29AF4723008FD1C3 /* LuffyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39BD89C29AF4723008FD1C3 /* LuffyViewController.swift */; };
 		D39BD8A029AF4723008FD1C3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D39BD89E29AF4723008FD1C3 /* Main.storyboard */; };
 		D39BD8A229AF4725008FD1C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D39BD8A129AF4725008FD1C3 /* Assets.xcassets */; };
 		D39BD8A529AF4725008FD1C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D39BD8A329AF4725008FD1C3 /* LaunchScreen.storyboard */; };
+		D39BD8AD29AF5CAC008FD1C3 /* Luffy.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39BD8AC29AF5CAC008FD1C3 /* Luffy.swift */; };
+		D39BD8B129AF7137008FD1C3 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39BD8B029AF7137008FD1C3 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		D39BD89529AF4723008FD1C3 /* MyStory.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyStory.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D39BD89829AF4723008FD1C3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D39BD89A29AF4723008FD1C3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		D39BD89C29AF4723008FD1C3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D39BD89C29AF4723008FD1C3 /* LuffyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LuffyViewController.swift; sourceTree = "<group>"; };
 		D39BD89F29AF4723008FD1C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D39BD8A129AF4725008FD1C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D39BD8A429AF4725008FD1C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D39BD8A629AF4725008FD1C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D39BD8AC29AF5CAC008FD1C3 /* Luffy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Luffy.swift; sourceTree = "<group>"; };
+		D39BD8B029AF7137008FD1C3 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +62,10 @@
 			children = (
 				D39BD89829AF4723008FD1C3 /* AppDelegate.swift */,
 				D39BD89A29AF4723008FD1C3 /* SceneDelegate.swift */,
-				D39BD89C29AF4723008FD1C3 /* ViewController.swift */,
+				D39BD89C29AF4723008FD1C3 /* LuffyViewController.swift */,
 				D39BD89E29AF4723008FD1C3 /* Main.storyboard */,
+				D39BD8B029AF7137008FD1C3 /* DetailViewController.swift */,
+				D39BD8AC29AF5CAC008FD1C3 /* Luffy.swift */,
 				D39BD8A129AF4725008FD1C3 /* Assets.xcassets */,
 				D39BD8A329AF4725008FD1C3 /* LaunchScreen.storyboard */,
 				D39BD8A629AF4725008FD1C3 /* Info.plist */,
@@ -138,7 +144,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D39BD89D29AF4723008FD1C3 /* ViewController.swift in Sources */,
+				D39BD8AD29AF5CAC008FD1C3 /* Luffy.swift in Sources */,
+				D39BD89D29AF4723008FD1C3 /* LuffyViewController.swift in Sources */,
+				D39BD8B129AF7137008FD1C3 /* DetailViewController.swift in Sources */,
 				D39BD89929AF4723008FD1C3 /* AppDelegate.swift in Sources */,
 				D39BD89B29AF4723008FD1C3 /* SceneDelegate.swift in Sources */,
 			);
