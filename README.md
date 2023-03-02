@@ -29,7 +29,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+Link to GIF on Imgur:
+https://imgur.com/gallery/e5JGLbs
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/e5JGLbs"  ><a href="//imgur.com/a/e5JGLbs">Strawhat Luffy</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 <img src='https://imgur.com/gallery/e5JGLbs' title='Video Walkthrough' width='50px' alt='Video Walkthrough' />
+
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap, posted onto GIPHY
