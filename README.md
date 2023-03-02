@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://giphy.com/gifs/6EsbqMnV9Ya7gsSuTt' title='Video Walkthrough' width='50px' alt='Video Walkthrough' />
+<img src='https://imgur.com/gallery/e5JGLbs' title='Video Walkthrough' width='50px' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap, posted onto GIPHY
